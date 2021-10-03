@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<p><img src="https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-thumb.jpg" alt="loading"></p>
+
 You can use the [editor on GitHub](https://github.com/wqw2212121/ssassa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
